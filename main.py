@@ -6,7 +6,7 @@ root = tk.Tk()
 root.withdraw()
 
 answer = messagebox.askyesno(
-    "totally normal question",
+    "normal question",
     "crash computer?\n\nthis action is 100% irreversible"
 )
 
